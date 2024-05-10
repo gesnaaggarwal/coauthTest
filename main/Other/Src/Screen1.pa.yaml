@@ -1,0 +1,39 @@
+Screen1:
+  Control: Screen
+  Children:
+  - TextCanvas1:
+      Control: Text
+  - TextCanvas1_1:
+      Control: Text
+  - TextCanvas1_2:
+      Control: Text
+  - TextCanvas1_3:
+      Control: Text
+  - TextCanvas1_6:
+      Control: Text
+  - TextCanvas1_5:
+      Control: Text
+  - TextCanvas1_4:
+      Control: Text
+  - TextCanvas1_7:
+      Control: Text
+  - TextCanvas1_8:
+      Control: Text
+  - TextCanvas1_9:
+      Control: Text
+  - TextCanvas1_10:
+      Control: Text
+  - TextCanvas1_11:
+      Control: Text
+  - TextCanvas1_12:
+      Control: Text
+  - TextCanvas1_13:
+      Control: Text
+  - TextCanvas1_14:
+      Control: Text
+  - TextCanvas1_15:
+      Control: Text
+      Properties:
+        BorderColor: =""
+        X: =897
+        Y: =459

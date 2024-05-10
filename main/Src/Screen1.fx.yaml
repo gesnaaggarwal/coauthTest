@@ -1,0 +1,134 @@
+Screen1 As screen:
+    Fill: =Color.White
+    LoadingSpinnerColor: =App.Theme.Colors.Primary
+
+    TextCanvas1_15 As Text:
+        BorderColor: =""
+        BorderStyle: =""
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =897
+        Y: =459
+        ZIndex: =1
+
+    TextCanvas1_14 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =2
+
+    TextCanvas1_13 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =3
+
+    TextCanvas1_12 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =4
+
+    TextCanvas1_11 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =5
+
+    TextCanvas1_10 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =6
+
+    TextCanvas1_9 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =7
+
+    TextCanvas1_8 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =8
+
+    TextCanvas1_7 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =9
+
+    TextCanvas1_4 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =10
+
+    TextCanvas1_5 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =11
+
+    TextCanvas1_6 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =12
+
+    TextCanvas1_3 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =13
+
+    TextCanvas1_2 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =14
+
+    TextCanvas1_1 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =15
+
+    TextCanvas1 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =0
+        Y: =0
+        ZIndex: =16
+
