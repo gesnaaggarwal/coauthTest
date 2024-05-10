@@ -126,9 +126,9 @@ Screen1 As screen:
 
     TextCanvas1 As Text:
         DisplayMode: =DisplayMode.Edit
-        Height: =32
+        Height: =228
         Width: =96
-        X: =0
-        Y: =0
+        X: =276
+        Y: =42
         ZIndex: =16
 

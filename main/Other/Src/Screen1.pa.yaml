@@ -3,6 +3,10 @@ Screen1:
   Children:
   - TextCanvas1:
       Control: Text
+      Properties:
+        Height: =228
+        X: =276
+        Y: =42
   - TextCanvas1_1:
       Control: Text
   - TextCanvas1_2:
